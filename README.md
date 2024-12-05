@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN stack, ROS, and Python abd AI/ML
 - 🎓 Bachelor of Technology in Computer Science Engineering @Institute of Technology and Management
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me 2024.sujalw@isu.ac.in
+- 📫 How to reach me 2024.sujalw@isu.ac.in or warke.sujal281106@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am a fast learner and a good leader
   
