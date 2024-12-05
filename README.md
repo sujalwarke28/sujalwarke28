@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujalwarke28
 - 👀 I’m interested in webdev, robotics, and cybersecurity
-- 🌱 I’m currently learning MERN stack, ROS, and Python
+- 🌱 I’m currently learning MERN stack, ROS, and Python abd AI/ML
 - 🎓 Bachelor of Technology in Computer Science Engineering @Institute of Technology and Management
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me 2024.sujalw@isu.ac.in
